@@ -1,2 +1,2 @@
 # EMKT
-E-mail marketing
+Teste técnico de criação de um E-mail marketing
